@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "title": "Luxury Apartment in City Center",
+        "location": "Downtown, New York",
+        "price": 500000,
+        "propertyType": "Buy",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "size": 1200,
+        "amenities": ["Gym", "Swimming Pool", "Parking"],
+        "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 2,
+        "title": "Cozy House in Suburb",
+        "location": "Queens, New York",
+        "price": 300000,
+        "propertyType": "Buy",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "size": 1800,
+        "amenities": ["Garden", "Garage"],
+        "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 3,
+        "title": "Modern Office Space",
+        "location": "Manhattan, New York",
+        "price": 1500,
+        "propertyType": "Rent",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "size": 800,
+        "amenities": ["Parking", "Elevator"],
+        "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 4,
+        "title": "Beachfront Villa",
+        "location": "Miami, Florida",
+        "price": 1200,
+        "propertyType": "Short Let",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "size": 1400,
+        "amenities": ["Beach Access", "Private Pool"],
+        "imageUrl": "https://via.placeholder.com/300"
+    }
+]
