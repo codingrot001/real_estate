@@ -62,14 +62,14 @@ To run the application, start the backend server and the frontend application:
 1. **Start the backend server**:
 
    ```bash
-   cd server
-   npm start
+   cd property_agency_backend
+   npm run dev
    ```
 
 2. **Start the frontend application**:
 
    ```bash
-   cd client
+   cd property_agency
    npm start
    ```
 
